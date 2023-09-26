@@ -1,4 +1,4 @@
-﻿$numero = Read-Host "Ingresa un número para mostrar su tabla de multiplicar"
+﻿$numero = Read-Host "Escribe un número para mostrar su tabla de multiplicar"
 
 $numero = [int]$numero
 
